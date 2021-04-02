@@ -1,0 +1,86 @@
+   Веб форма для заполнения полей
+ 1. Summary: Нет описания для чего необходимо заполнение данной формы
+ Environment: Windows 10, Chrome v.89.0.4389.114
+ Severity: medium
+ Reproduce: every time
+ Version: 1
+ STR:
+ Открыть веб сайт http://itcareer.pythonanywhere.com/
+ 
+ ER: Появившаяся форма имеет описание, в котором описано для чего необходимо заполнение данной формы
+
+ AR: Нет описания для чего необходимо заполнение данной формы
+
+ Attachments:
+
+ 2. Summary: Текст кнопки Submit смещен вправо
+ Environment: Windows 10, Chrome v.89.0.4389.114
+ Severity: low
+ Reproduce: every time
+ Version: 1
+ STR:
+ Открыть веб сайт http://itcareer.pythonanywhere.com/
+ 
+ ER: Текст кнопки Submit находится по-середине
+
+ AR: Текст кнопки Submit смещен вправо
+
+ Attachments
+
+ 3. Summary: В появляющемся сообщении об ошибке слово Error повторяется два раза Environment: Windows 10, Chrome v.89.0.4389.114
+ Severity: low
+ Reproduce: every time
+ Version: 1
+ STR:
+ Открыть веб сайт http://itcareer.pythonanywhere.com/
+ Нажать кнопку Submit
+
+ ER: Появляется сообщение об ошибке, в котором нет повторяющихся слов
+
+ AR: В появляющемся сообщении об ошибке слово Error повторяется два раза
+
+ Attachments
+
+ 4. Summary: Данная веб страница не адаптирована для мобильных устройств
+ Environment: Huawei P10, Chrome v.89.0.4389.114
+ Severity: medium
+ Reproduce: every time
+ Version: 1
+ STR:
+ Открыть веб сайт http://itcareer.pythonanywhere.com/
+
+ ER: Страниа адаптирована дял мобилных устройств. Вся информация не выходит за границы экрана и имеет одинаковые отступы по бокам
+ 
+ AR: Информация веб страницы выходит за рамку экрана с одной стороны и не имеет отступа от границы экрана с другой стороны
+
+ Attachments
+
+ 5. Summary: Опечатка в названии поля для заполнения Surname
+ Environment: Windows 10, Chrome v.89.0.4389.114
+ Severity: low
+ Reproduce: every time
+ Version: 1
+ STR:
+ Открыть веб сайт http://itcareer.pythonanywhere.com/
+
+ ER: Поля для заполнения не имеют опечаток в названии
+
+ AR: В поле Surame пропущена одна буква
+
+ Attachments
+
+ 6. Summary: Маски полей для заполнения заканчиваются знаками препинания
+ Environment: Windows 10, Chrome v.89.0.4389.114
+ Severity: low
+ Reproduce: every time
+ Version: 1
+ STR:
+ Открыть веб сайт http://itcareer.pythonanywhere.com/
+
+ ER: Маски полей для заполнения не должны заканчиваться знаками препинания
+
+ AR: Маски полей для заполнения заканчиваются знаками препинания
+
+ Attacments
+
+ 7.
